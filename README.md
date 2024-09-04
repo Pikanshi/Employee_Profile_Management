@@ -1,4 +1,4 @@
-# Contact-Management-system
+# Employee Profile Management System
 
 ## CLone the Repository
 ```
